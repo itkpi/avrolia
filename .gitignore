@@ -1,2 +1,9 @@
-*.class
+target/
+.idea
+*.iml
 *.log
+logs/
+sonatype.sbt
+.DS_Store
+.bloop/
+.metals/
